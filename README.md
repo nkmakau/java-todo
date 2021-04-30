@@ -9,3 +9,5 @@ test 3 check
 
 Author of this build to test pipeline Duffy Duck
 Test pipeline again 2 11
+
+Corrected pipeline
